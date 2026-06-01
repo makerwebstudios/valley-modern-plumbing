@@ -12,6 +12,7 @@ export default defineConfig({
         commercialPlumber: resolve(__dirname, 'commercial-plumber-mcallen-tx.html'),
         pipeRepair: resolve(__dirname, 'pipe-repair-mcallen-tx.html'),
         sewerRepair: resolve(__dirname, 'sewer-repair-mcallen-tx.html'),
+        waterHeater: resolve(__dirname, 'water-heater-mcallen-tx.html'),
       },
     },
   },
