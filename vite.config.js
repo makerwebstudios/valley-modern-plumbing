@@ -16,6 +16,7 @@ export default defineConfig({
         plumberEdinburg: resolve(__dirname, 'plumber-edinburg-tx.html'),
         plumberMission: resolve(__dirname, 'plumber-mission-tx.html'),
         plumberPharr: resolve(__dirname, 'plumber-pharr-tx.html'),
+        notFound: resolve(__dirname, '404.html'),
       },
     },
   },
